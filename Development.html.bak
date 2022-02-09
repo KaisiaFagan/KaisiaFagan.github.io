@@ -1,0 +1,123 @@
+<!doctype html>
+
+<html>
+
+  <head>
+ 
+   <title> Personal Development </title>
+   <link rel = "icon"  type = "image/x-icon" href = "../Assets/KF.ico">
+    <br/>
+   <center><h1 style = "background-color:#e8e4d9;font-size:50px" id="topofpage"> Personal Development </h1></center>
+   
+   <meta charset = "UTF-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+   <!-- the pixel width of the viewport that you want the website to be rendered at -->
+   <!-- setting a 1:1 ratio between the device width and the viewport size-->
+   <meta name = "Author" content = "Kaisia Fagan"/>
+   <meta name = "Keywords" content = "HTML, images, formatting tags"/>
+	
+  </head>
+  
+  <body style = "background:url(../Assets/background.jpg); background-attachment: fixed; background-repeat: no-repeat;background-size:cover;">
+  
+    <header>
+	
+	</header>
+	
+	<a style = "color:black; text-decoration:none" href= "Personal.html" class= "previous"><span style = "font-size: 50px">&#8592;</span></a>
+	<a style = "color:black; position:relative; left:90%; text-decoration:none" href= "Reference.html" class= "next"><span style = "font-size: 50px">&#8594;</span> </a>
+	
+	 <br/>
+	 <br/>
+	 <center style = "font-size:18px"><p>
+	   <a style = 'color:black'href = "Assignment1.html">Home</a>
+	   <a style = "margin-left: 50px;color:black" href = "Professional.html">Professional</a>
+	   <a style = "margin-left: 50px;color:black" href = "Personal.html">Personality</a>
+	   <a style = "margin-left: 50px;color:black" href = "Development.html">Personal Development</a>
+	   <a style = "margin-left: 50px;color:black" href = "Reference.html">References</a>
+	   <a style = "margin-left: 50px;color:black" href = "Storyboard.html">Storyboard</a>
+	 </p></center>
+	 
+	<section>
+	<center>
+	  <table border = '0'  cellpadding = '50' width = '90%'> 
+	    <tr>
+		 <td>
+		   <center><h2><u>My Strengths</u></h2></center>
+		     <br/>
+		     <ol type = "1" style = "font-size:20px; line-height: 50px"> 
+		      <li >My Persistence - I am a strong believer of "everyone has a right to their opinion" and being a rational person I like to 
+			  think that my opinions are always valid, so you could say being persistent is in my nature. This trait/strength has helped me
+			  quite a lot, especially when doing group assignments. I have been called stubborn and difficult but I just remind myself that
+			  you will get nowhere in life being a pushover.</li>
+			  <br/>
+			  <li>My Confidence - Whether it was my weight or my acne, I was insecure in myself throughout high school and in the beginning 
+			  of university. The smallest comments thrown at me would eat at my confidence and make me feel lesser about myself. I used my 
+			  time during the covid lockdowns to work on and build myself and today I can honestly say that I am much more confident than
+              I have ever been and that new found confidence has given me strength.</li>
+			  <br/>
+			  <li>My Love of Learning - I am the type of person who researches and reads everything once it captures my attention. I
+			  also love to read so this allows me to expand my knowledge in many different subject areas.</li>
+			  <br/>
+			  <li>Music - Music is everything to me and I often times say that I don't know where I would be if I did not have music.
+			  No matter the circumstance, I know that I will always be able to find comfort in music and that has proven to be true
+			  many different times. Music makes me happy, it empowers me and it helps to ease my pain and it helps me forget, even if 
+			  it does so temporarily.</li>
+			  <br/>
+			  <li>My Family - I like to think that my biggest strength is my family. They are my greatest support and without
+			  them I don't think I would be who I am today. I spend majority of my time with family because life is short and I don't 
+			  believe there is such a thing as too much family time.</li>
+		     </ol>
+		 </td>
+		</tr>
+	  </table>
+	  </center>
+	</section>
+	
+	<section>
+	  <center>
+	  <table border = '0' cellpadding = '20' cellspacing = '5' width = '90%' style = 'background-color:white'>
+	   <center><th><h2><q>Twelve Pillars</q> Chapters 4-7 : Summary & Reflection</h2></th></center>
+	   <tr>
+	   <td style = "font-size:20px; line-height: 50px;"><center><i><u>Summary</u></i></center><p style = "text-indent:50px">
+	       The chapters speak on ways of making and achieving 
+	       your goals. It is good to make notations of things you wish to accomplish in your life, that way you will have things to work 
+		   towards with the possibility of becoming successful.It is also good to make short, medium and long term goals as it is impossible 
+		   to achieve a major goal overnight after coming up with the idea.</p>
+		   <p style = "text-indent:50px">Secondly, they speak on using your time wisely and making time for things such as your goals outside 
+		   of working because although working to provide for your daily needs is important, it is equally as important that you make time to
+		   do things that would make you happy and fulfill your life pleasures. In doing so you will have little to no regret about what you 
+		   wish you had done or achieved.</p>
+		   <p style = "text-indent:50px">Thirdly, they mention that it is beneficial to have people who are driven to be a better version of 
+		   themselves everyday around you, because being around hard working, goal driven individuals will push you to become a better 
+		   version of yourself. If you surround yourself with winners you will be motivated to become a winner as well and if you are 
+		   surrounded by persons who have nothing to accomplish that type of attitude could also have an effect on you. Finally, the chapters
+		   emphasize the importance of self-education and constantly developing oneself. This can be done by reading, reflecting on your
+		   past experiences and observing successful individuals in your life.</p> 
+		   <center><u><i>Reflection</i></u></center>
+		   <p style = "text-indent:50px"> I am quite content with my life right now but after reading the chapters I can admit that some
+		   self reflection needs to be done and some changes in my routine can be made. For the past two years my main focus has been on 
+		   school and getting my degree. I have not been out with any friends and I hardly ever leave home so I think sooner rather than
+		   later I need to make time for friends, adventures and making memories. I could also take time to write my short and long term 
+		   goals as my main goal currently is getting my degree, which is only a short term goal.
+		    </p></td>
+		</tr>
+	  </table>
+	  </center>
+	</section>
+	
+	<section>
+	   <h2 style = "text-align:right"><a href="#topofpage" style = "text-decoration:none">
+	   <span style = "font-size:50px; color:black">&#8593;</span></a></h2>
+	</section>
+	
+	<footer>
+	  <br/>
+	  <hr size = "2"/>
+	  Copyrighted &copy; Kaisia Fagan, February 8 , 2022
+	
+	</footer>
+  
+  </body>
+  
+</html>

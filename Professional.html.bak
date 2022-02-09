@@ -1,0 +1,95 @@
+<!doctype html>
+
+<html>
+
+  <head>
+ 
+   <title> Professional Information </title>
+   <link rel = "icon"  type = "image/x-icon" href = "../Assets/KF.ico">
+    <br/>
+   <center><h1 style = "background-color:#e8e4d9;font-size:50px">Résumé</h1></center>
+   
+   <meta charset = "UTF-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+   <!-- the pixel width of the viewport that you want the website to be rendered at -->
+   <!-- setting a 1:1 ratio between the device width and the viewport size-->
+   <meta name = "Author" content = "Kaisia Fagan"/>
+   <meta name = "Keywords" content = "traits, mission, vision, strength, development, personality"/>
+	
+  </head>
+  
+  <body style = "background:url(../Assets/background.jpg); background-attachment: fixed; background-repeat: no-repeat;background-size:cover;">
+  
+    <header>
+	
+	</header>
+	
+     <a style = "color:black; text-decoration:none" href= "Assignment1.html" class= "previous"><span style = "font-size: 50px">&#8592;</span></a>
+	 <a style = "color:black; position:relative; left:90%; text-decoration:none" href= "Personal.html" class= "next"><span style = "font-size: 50px">&#8594;</span> </a>
+	
+	 <br/>
+	 <br/>
+	 <center style = "font-size:18px"><p>
+	   <a style = 'color:black'href = "Assignment1.html">Home</a>
+	   <a style = "margin-left: 50px;color:black" href = "Professional.html">Professional</a>
+	   <a style = "margin-left: 50px;color:black" href = "Personal.html">Personality</a>
+	   <a style = "margin-left: 50px;color:black" href = "Development.html">Personal Development</a>
+	   <a style = "margin-left: 50px;color:black" href = "Reference.html">References</a>
+	   <a style = "margin-left: 50px;color:black" href = "Storyboard.html">Storyboard</a>
+	 </p></center>
+	
+	 
+	<section>
+	   <center>
+	   <table border = '1' cellpadding = '20' cellspacing = '5' width = '90%' style = 'border-color:#277f67'>
+	     <tr>
+		   <td colspan = '2'><center><h1 style = 'color:black'>Kaisia Fagan</h1></center></td>
+		   <br/>
+		   <br/>
+		   <br/>
+		 </tr>
+		 <tr>
+		    <td colspan = '2'><p style = 'text-align:right;color:black;font-size:18px'> 13 MERRIVALE CLOSE<br/><br/> KINGSTON 8<br/></br> Telephone #: 1876-345-5327<br/><br/> Email: kaisia2022@gmail.com</p></td>
+		 </tr>
+		 <tr>
+		   <td style = 'color:black;font-size:18px' rowspan = '3'><b><u>Education and Qualifications</u></b><br/><br/>Convent of Mercy Academy ‘Alpha’<br/><br/>
+		        <ul style="list-style-type:circle;"><li>High School Leaving Diploma<br/><br/></li>
+			      <li>2018 - Seven (7) Caribbean Secondary Examination Council (CSEC) subjects<br/><br/></li>
+			      <li>2019 - Four (4) Level 1 Caribbean Advanced Proficiency Exam (CAPE) subjects<br/><br/></li>
+		       </ul>
+                University of Technology Jamaica<br/><br/> 
+				<ul style="list-style-type:circle;"><li>Bachelor of Science in Computing Degree - Pending<br/><br/></li>
+			    </ul>
+			<b><u>Work Experiences</u></b>
+			<ul style="list-style-type:circle;"><li>Bureau of Gender Affairs Jamaica (Summer 2018)<br/><br/></li>
+			      <li>Jamaica Information Service (Summer 2019)<br/><br/></li>
+		    </ul>
+		   </td>
+
+		    <tr>
+			  <td style = "font-size:20px"><p style = 'text-align:center;color:black'><u>Mission Statement</u>
+			  <p style = "font-size:20px; line-height: 50px;">I will always be the best version of myself by entertaining meaningful 
+			  relationships and sharing joy, peace and happiness in every way I can. I will be a light in the lives of people I meet every 
+			  step of the way in life.</p></p></td> 
+			</tr>
+		    <tr>
+			  <td style = "font-size:20px"><p style = 'text-align:center;color:black'><u>Vision Statement</u>
+			 <p style = "font-size:20px; line-height: 50px;"> To pursue a career which brings constant 
+			  learning and character development. This is after working diligently to attain my bachelors degree. All this while sharing 
+			  valuable time and energy with persons in my life.</p></p></td> 
+			</tr>
+		 </tr>
+	   </table>
+	   </center>
+	
+	</section>
+	<footer>
+	  <br/>
+	  <hr size = "2"/>
+	  Copyrighted &copy; Kaisia Fagan, February 8 , 2022
+	
+	</footer>
+  
+  </body>
+  
+</html>

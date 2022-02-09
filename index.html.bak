@@ -1,0 +1,79 @@
+<!doctype html>
+
+<html>
+
+  <head>
+ 
+   <title> Get to know Kaisia Fagan </title>
+   <link rel = "icon"  type = "image/x-icon" href = "../Assets/KF.ico">
+     <br/>
+     <center><h1 style = "background-color:#e8e4d9;font-size:50px"> Home </h1></center>
+	
+   <meta charset = "UTF-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+   <!-- the pixel width of the viewport that you want the website to be rendered at -->
+   <!-- setting a 1:1 ratio between the device width and the viewport size-->
+   <meta name = "Author" content = "Kaisia Fagan"/>
+   <meta name = "Keywords" content = "traits, mission, vision, strength, development, personality"/>
+	
+  </head>
+  
+   <body style = "background:url(../Assets/background.jpg); background-attachment: fixed; background-repeat: no-repeat;background-size:cover;">
+  
+     <header>
+	
+	 </header>
+	
+	 <a style = "color:black; position:relative; left:90%; text-decoration:none" href= "Professional.html" class= "next"><span style = "font-size: 50px">&#8594;</span> </a>
+	
+	
+	 <br/>
+	 <br/>
+	 <center style = "font-size:18px"><p>
+	   <a style = 'color:black'href = "index.html">Home</a>
+	   <a style = "margin-left: 50px;color:black" href = "Professional.html">Professional</a>
+	   <a style = "margin-left: 50px;color:black" href = "Personal.html">Personality</a>
+	   <a style = "margin-left: 50px;color:black" href = "Development.html">Personal Development</a>
+	   <a style = "margin-left: 50px;color:black" href = "Reference.html">References</a>
+	   <a style = "margin-left: 50px;color:black" href = "Storyboard.html">Storyboard</a>
+	 </p></center>
+	 
+	 <br/>
+	 <section>
+	   <table border = '0' cellpadding = '20' cellspacing = '5' width = '90%'>
+	     <tr>
+		   <td style = "padding-left:70px; font-size:70px"><b>Who is Kaisia Fagan? <h1 style = "font-size: 20px">
+		   Click the options in the menu bar to find out.<span style = "font-size: 50px">&#8593;</span></b></h1></td>
+		   <td>
+		    <a href= 'mailto:kaisia2022@gmail.com?cc=kaisiafagan@yahoo.com&subject=Assignment1'>
+		   <img src = '../Assets/Kaisia.jpg' width = '400' height = '400' alt = "Image not found" style = "padding-top:20px"></img></a>
+		   <br/><br/><h3>Email client &#8593;</h3></td>
+            	   
+		 </tr>
+		 <tr>
+		  <td colspan = '2'>
+		  <p style = 'font-size:25px; padding-left:30px'>
+		  The aim of this website is to give persons a better understanding of who I (Kaisia Fagan) am. With that being<br/><br/> said, 
+		  throughout this website you will find information on my personality (traits, likes and dislikes), my<br/><br/> personal 
+		  developments and also my professional information (resume, mission and vision statements).</p>	  
+         <br/>
+         <br/>	
+         </td>		 
+
+		 <!-- <td rowspan = '2'>
+			  <iframe src = 'https://www.youtube.com/watch?v=mC9G5u9ZiLU&list=PLxFt3wW5ry8sKLeH0XbSalty_S3-Xdq1B' width ='400' height = '400' name ='myframe'></iframe>
+		   </td>-->
+		 </tr>
+	   </table>
+	 </section>
+	 
+	 
+	 <footer>
+	  <br/>
+	  <hr size = "2"/>
+	  Copyrighted &copy; Kaisia Fagan, February 8, 2022
+	
+	 </footer>
+   </body>
+  
+</html>

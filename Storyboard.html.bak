@@ -1,0 +1,166 @@
+<!doctype html>
+
+<html>
+
+  <head>
+ 
+   <title> Storyboard </title>
+   <link rel = "icon"  type = "image/x-icon" href = "../Assets/KF.ico">
+   <br/>
+     <center><h1 style = "background-color:#e8e4d9;font-size:50px" id="topofpage"> Storyboard </h1></center>
+   
+   <meta charset = "UTF-8"></meta>
+   <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+   <!-- the pixel width of the viewport that you want the website to be rendered at -->
+   <!-- setting a 1:1 ratio between the device width and the viewport size-->
+   <meta name = "Author" content = "Kaisia Fagan"/>
+   <meta name = "Keywords" content = "traits, mission, vision, strength, development, personality"/>
+	
+  </head>
+  
+  <body style = "background:url(../Assets/background.jpg); background-attachment: fixed; background-repeat: no-repeat;background-size:cover;">
+  
+    <header>
+	
+	</header>
+	
+	<a style = "color:black; text-decoration:none" href= "Reference.html" class= "previous"><span style = "font-size: 50px">&#8592;</span></a>
+	<a style = "color:black; position:relative; left:90%; text-decoration:none" href= "Assignment1.html" class= "next"><span style = "font-size: 50px">&#8594;</span> </a>
+	
+	 <br/>
+	 <br/>
+	 <center style = "font-size:18px"><p>
+	   <a style = 'color:black'href = "Assignment1.html">Home</a>
+	   <a style = "margin-left: 50px;color:black" href = "Professional.html">Professional</a>
+	   <a style = "margin-left: 50px;color:black" href = "Personal.html">Personality</a>
+	   <a style = "margin-left: 50px;color:black" href = "Development.html">Personal Development</a>
+	   <a style = "margin-left: 50px;color:black" href = "Reference.html">References</a>
+	   <a style = "margin-left: 50px;color:black" href = "Storyboard.html">Storyboard</a>
+	 </p></center>
+	 
+	<section>
+	 <table style = "padding-top:50px"border = "0">
+	  <tr>
+	   <td><h3 style = "text-indent:50px"><u>List of pages and their purpose:</u></h3>
+	    <ol type = "1" style = "font-size:20px; line-height: 50px"> 
+		<li>Splash Page - This page tells the user why the website was created and what to expect inside. </li>
+		<li> Professional Page - This page is created to inform users of my qualifications and goals. </li>
+		<li>Personality Page - This page was created with the intent of giving persons a better understanding of who I am and what my 
+            personality is like.</li>
+		<li>Personal Development Page - The personal development page was designed to show persons where I was and where I am today 
+		    (if and how much I have changed over the past few years).</li>
+		<li>Reference Page - The reference page is created to give credit to my sources and also allow persons to be able to find them.</li>
+         <br/>
+		 Features: Gallery and Audio.
+
+	   </td>
+	  
+	  </tr>
+	 
+	 </table>
+	
+	</section>
+	 
+	 
+	<section>
+	 <center>
+	 <table border = '1' cellpadding = '20' cellspacing = '5' width = '90%' style = 'border-color:#277f67'>
+	 <th colspan = "3"><h2>Webpages Layout Designs</h2></th>
+	 <tr>
+	 
+	 <td><center><h1>Reference Page</h1></center><br/><br/>
+	    <table border = '1' cellpadding = '10' cellspacing = '5' width = '90%' style = 'border-color:#277f67'> 
+		<tr><td colspan = '2'><center>Header</center></td></tr>
+		<tr><td colspan = '2'><center>Menu Bar</center></td></tr>
+		<tr><td><center>Content</center></td></tr>
+	  </td></table>
+	 
+	  <td><center><h1>Splash Page</h1></center><br/><br/>
+	    
+	    <table border = '1' cellpadding = '10' cellspacing = '5' width = '90%' style = 'border-color:#277f67'>
+		 <tr><td colspan = '2'><center>Header</center></td></tr>
+		 <tr><td colspan = '2'><center>Menu Bar</center></td></tr>
+	     <tr>
+		   <td>Content</td>
+		   <td>Email Link</td>  	   
+		 </tr>
+		 <tr>
+		  <td colspan = '2'>Content</td>
+		 </tr>
+	   </table>
+	  </td>
+	  
+	  <td><center><h1>Personal Development Page</h1></center><br/><br/>
+	    <table border = '1' cellpadding = '10' cellspacing = '5' width = '90%' style = 'border-color:#277f67'> 
+		<tr><td colspan = '2'><center>Header</center></td></tr>
+		<tr><td colspan = '2'><center>Menu Bar</center></td></tr>
+		
+	    <tr><td><center>Content</center></td></tr>
+		<tr><td><center>Content</center></td></tr>
+		</table>
+	  </td>
+	  
+	  <tr>
+	  <td style = "padding-bottom: 240px"><center><h1>Professional Page</h1></center><br/><br/>
+        <table border = '1' cellpadding = '10' cellspacing = '5' width = '90%' style = 'border-color:#277f67'>
+		 <tr><td colspan = '2'><center>Header</center></td></tr>
+		 <tr><td colspan = '2'><center>Menu Bar</center></td></tr>
+	     <tr>
+		   <td colspan = '2'><center>Content</center></td>
+		 </tr>
+		 <tr><td colspan = '2'>Content</td></tr>
+		 <tr><center><td rowspan = '3'>Content</td></center><tr>
+			<td><center>Content</center></td> </tr>
+		<tr><td><center>Content</center></td> </tr>
+		 </tr>
+	    </table>
+	  </td>
+	  
+	  <td><center><h1>Personality Page</h1></center><br/><br/>
+		<table border = '1' cellpadding = '10' cellspacing = '5' width = '90%' style = 'border-color:#277f67'>
+		<tr><td colspan = '3'><center>Header</center></td></tr>
+		<tr><td colspan = '3'><center>Menu Bar</center></td></tr>
+	  <tr><td colspan = '2'><center>Content</center></td></tr>
+		<tr><td><center>Content</center></td>
+		  <td>Image</td>
+		</tr>
+		<tr>
+		  <td>Image</td>
+		  <td><center>Content</center></td>
+		</tr>
+		
+		<tr><td colspan = '2'>Content</td></tr>
+	    <tr><td>Image</td>
+		  <td>Image</td>
+		</tr>
+		<tr><td>Image</td>
+		  <td><center>Content</center></td>
+		</tr>
+		<tr>
+	     <td colspan = '3'>Content</td>
+	  </tr>
+	    <tr><td>Image</td><td>Image</td><td>Image</td></tr>
+        <tr><td colspan = '3'>Content</td></tr></td>
+	  </table>
+	  </tr>
+	  
+	 </tr>
+	 </table></center>
+	</section>
+	
+	
+	<section>
+	   <h2 style = "text-align:right"><a href="#topofpage" style = "text-decoration:none">
+	   <span style = "font-size:50px; color:black">&#8593;</span></a></h2>
+	</section>
+	
+	<footer>
+	  <br/>
+	  <hr size = "2"/>
+	  Copyrighted &copy; Kaisia Fagan, February 8 , 2022
+	
+	</footer>
+  
+  </body>
+  
+</html>
